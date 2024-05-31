@@ -45,11 +45,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [X] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
@@ -61,13 +61,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
